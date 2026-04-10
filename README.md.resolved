@@ -1,9 +1,6 @@
 # TurkeySMS Python SDK (Official) 🐍
 
-[![PyPI version](https://img.shields.io/pypi/v/turkeysms-python.svg)](https://pypi.org/project/turkeysms-python/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Official Python SDK for the **TurkeySMS API V4**. Seamlessly integrate SMS and OTP services into your Python applications.
+Official **TurkeySMS Python Developer Kit** — A robust, Pythonic interface for the V4 API. Streamline your SMS and verification workflows with absolute ease.
 
 ## 🛠 Installation
 
